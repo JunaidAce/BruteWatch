@@ -40,5 +40,4 @@ This project demonstrates **blue‑team security concepts**, intrusion detection
 - Collections (defaultdict)
 
 ---
-## 📂 Project Structure
 
