@@ -2,7 +2,7 @@ from flask import Flask, request, render_template
 from detector import validate_login
 
 app = Flask(__name__)
-
+#You can use your own database
 # Dummy database
 users = {
     "admin": "admin123",
