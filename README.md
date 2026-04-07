@@ -17,7 +17,6 @@ This project demonstrates **blue‑team security concepts**, intrusion detection
 - Detect brute-force login attacks
 - Monitor failed authentication attempts per IP
 - Block malicious IPs automatically
-- Simulate real-world SOC detection logic
 - Strengthen web authentication security
 
 ---
@@ -26,7 +25,6 @@ This project demonstrates **blue‑team security concepts**, intrusion detection
 - Failed login attempt tracking
 - Time‑window based detection logic
 - Automatic IP blocking
-- Backend‑level security enforcement
 - Web application integration (Flask)
 - Easily extendable to databases or Redis
 
