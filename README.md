@@ -4,7 +4,7 @@
 BruteWatch is a **Python & Flask-based defensive security system** designed to detect and block brute-force attacks against web authentication endpoints.
 
 ---
-## 📌 Project Overview
+##  Project Overview
 
 Brute-force attacks target login mechanisms by attempting multiple password combinations.  
 BruteWatch monitors failed login attempts in real time and automatically blocks malicious IP addresses when suspicious behavior is detected.
@@ -12,7 +12,7 @@ BruteWatch monitors failed login attempts in real time and automatically blocks 
 This project demonstrates **blue‑team security concepts**, intrusion detection logic, and secure authentication monitoring.
 
 ---
-## 🎯 Objectives
+##  Objectives
 
 - Detect brute-force login attacks
 - Monitor failed authentication attempts per IP
@@ -20,7 +20,7 @@ This project demonstrates **blue‑team security concepts**, intrusion detection
 - Strengthen web authentication security
 
 ---
-## 🛡️ Features
+##  Features
 
 - Failed login attempt tracking
 - Time‑window based detection logic
@@ -29,7 +29,7 @@ This project demonstrates **blue‑team security concepts**, intrusion detection
 - Easily extendable to databases or Redis
 
 ---
-## 🧰 Technologies Used
+##  Technologies Used
 
 - Python 3
 - Flask
