@@ -1,4 +1,4 @@
-#  BruteWatch
+#  BruteForceWatcher
 ### Web Authentication Brute‑Force Detection System
 
 BruteWatch is a **Python & Flask-based defensive security system** designed to detect and block brute-force attacks against web authentication endpoints.
@@ -20,7 +20,7 @@ This project demonstrates **blue‑team security concepts**, intrusion detection
 - Strengthen web authentication security
 
 ---
-##  Features
+##  -Features-
 
 - Failed login attempt tracking
 - Time‑window based detection logic
